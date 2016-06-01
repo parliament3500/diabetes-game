@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{777B7479-049A-F71A-581D-860F6DDCB05B}") = "DiabetesGame", "Assembly-CSharp.csproj", "{E22E01E0-B4EF-8DC3-0E37-CECB0B7FDBEA}"
+EndProject
+Project("{777B7479-049A-F71A-581D-860F6DDCB05B}") = "DiabetesGame", "Assembly-CSharp-Editor.csproj", "{0C75E9AF-D3F0-5B04-D04F-14C34AFAFAE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E22E01E0-B4EF-8DC3-0E37-CECB0B7FDBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22E01E0-B4EF-8DC3-0E37-CECB0B7FDBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22E01E0-B4EF-8DC3-0E37-CECB0B7FDBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22E01E0-B4EF-8DC3-0E37-CECB0B7FDBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C75E9AF-D3F0-5B04-D04F-14C34AFAFAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C75E9AF-D3F0-5B04-D04F-14C34AFAFAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C75E9AF-D3F0-5B04-D04F-14C34AFAFAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C75E9AF-D3F0-5B04-D04F-14C34AFAFAE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

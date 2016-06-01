@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlatformMove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/StatManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DisplayUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShowGameend.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Spawn.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyEffect.cs" Line="45" Column="9" />
+      <File FileName="Assets/Scripts/Timer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="68" Column="13" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="35" Column="21" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="12" Column="6" />
+      <File FileName="Assets/Scripts/Parallax.cs" Line="39" Column="120" />
+      <File FileName="Assets/Scripts/InsulinEffect.cs" Line="39" Column="47" />
+      <File FileName="Assets/PlatformMove.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
