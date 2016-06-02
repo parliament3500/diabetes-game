@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{935159D4-29CD-8F2F-D37B-00C6F43C3304}") = "diabetes-game", "Assembly-CSharp.csproj", "{C76062CA-80A6-56E7-8CE8-843DE92030B6}"
+EndProject
+Project("{935159D4-29CD-8F2F-D37B-00C6F43C3304}") = "diabetes-game", "Assembly-CSharp-Editor.csproj", "{4558D61C-9BEB-FFDB-E17C-19BBFF0A8C1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C76062CA-80A6-56E7-8CE8-843DE92030B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76062CA-80A6-56E7-8CE8-843DE92030B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76062CA-80A6-56E7-8CE8-843DE92030B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76062CA-80A6-56E7-8CE8-843DE92030B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4558D61C-9BEB-FFDB-E17C-19BBFF0A8C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4558D61C-9BEB-FFDB-E17C-19BBFF0A8C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4558D61C-9BEB-FFDB-E17C-19BBFF0A8C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4558D61C-9BEB-FFDB-E17C-19BBFF0A8C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

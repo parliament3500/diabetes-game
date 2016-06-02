@@ -18,7 +18,6 @@ public class Player : MonoBehaviour
     private SoundManager _soundManager;
     void Awake () 
     {
-        //_timerTemp = 0.1f;
         speed *= 100;
         jumpPower *= 100;
             
@@ -49,9 +48,9 @@ public class Player : MonoBehaviour
             float h = (Input.GetAxisRaw("Horizontal"));
 
             //movement
-           //_rb2d.AddForce((Vector2.right * speed) * h);
+           _rb2d.AddForce((Vector2.right * speed) * h);
             //_rb2d.velocity = new Vector2(h * speed, _rb2d.velocity.y);
-            transform.Translate(Vector2.right * h * speed * Time.deltaTime);
+            //transform.Translate(Vector2.right * h * speed * Time.deltaTime);
             //limiting the speed of the player
             if(_rb2d.velocity.x > maxSpeed)
                 _rb2d.velocity = new Vector2(maxSpeed, _rb2d.velocity.y);
